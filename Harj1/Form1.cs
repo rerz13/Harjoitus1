@@ -19,7 +19,7 @@ namespace Harj1
 
         private void VaihdaBT_Click(object sender, EventArgs e)
         {
-            OtsikkoLB.Text = "Heippa maailma!";
+            OtsikkoLB.Text = "Heippa Zarema!";
         }
     }
 }
